@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kemoh Website</title>
+<style>
+body{margin:0;font-family:Arial;background:#0a0a0a;color:white;text-align:center}
+.header{padding:60px;background:linear-gradient(red,black)}
+h1{font-size:40px} p{font-size:18px;color:#ccc}
+.btn{padding:15px 30px;background:red;color:white;border:none;border-radius:30px;margin-top:20px;font-size:18px}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Hi, I'm KEMOH</h1>
+<p>Welcome to my official website</p>
+<button class="btn">Explore My Work</button>
+</div>
+<h2 style="margin-top:40px;">About Me</h2>
+<p>I build websites and creative projects.</p>
+<p>Freetown, Sierra Leone</p>
+</body>
+</html>
